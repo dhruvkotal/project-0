@@ -1,0 +1,55 @@
+2021-07-12 02:28:29 INFO  app1:25 - Debited from 1
+2021-07-12 02:28:29 INFO  app1:29 - Debit acc success
+2021-07-12 02:28:29 INFO  app1:36 - Debit acc success
+2021-07-12 02:34:17 INFO  app1:25 - Debited from 1
+2021-07-12 02:34:17 INFO  app1:29 - Debit acc success
+2021-07-12 02:34:17 INFO  app1:36 - Debit acc success
+2021-07-12 02:46:17 INFO  app1:25 - Debited from 1
+2021-07-12 02:46:17 INFO  app1:29 - Debit acc success
+2021-07-12 02:46:18 INFO  app1:36 - Debit acc success
+2021-07-12 02:46:18 INFO  app1:45 - transfer table insert success
+2021-07-12 02:49:00 INFO  app1:25 - Debited from 1
+2021-07-12 02:49:00 INFO  app1:29 - Debit acc success
+2021-07-12 02:49:00 INFO  app1:36 - Debit acc success
+2021-07-12 02:49:00 INFO  app1:45 - transfer table insert success
+2021-07-12 02:54:09 ERROR app1:33 - SQL excep in Finally of Load acc
+2021-07-12 02:57:11 INFO  app1:32 - Load acc success
+2021-07-12 02:57:18 INFO  app1:32 - Load acc success
+2021-07-12 02:57:58 INFO  app1:32 - Load acc success
+2021-07-12 10:24:29 INFO  app1:36 - Load acc success
+2021-07-12 10:24:38 ERROR app1:39 - SQL excep in Finally of Load acc
+2021-07-12 10:25:31 ERROR app1:37 - SQL excep in Finally of Load acc
+2021-07-12 10:28:49 ERROR app1:39 - SQL excep in Finally of Load acc
+2021-07-12 10:29:29 ERROR app1:42 - SQL excep in Finally of Load acc
+2021-07-12 10:32:44 ERROR app1:42 - SQL excep in Finally of Load acc
+2021-07-12 10:59:55 ERROR app1:43 - SQL excep in Finally of Load acc
+2021-07-12 11:01:26 INFO  app1:40 - Load acc success
+2021-07-12 11:01:39 INFO  app1:40 - Load acc success
+2021-07-12 11:05:04 INFO  app1:38 - Debited from 2
+2021-07-12 11:05:04 INFO  app1:42 - Debit acc success
+2021-07-12 11:05:04 INFO  app1:50 - Debit acc success
+2021-07-12 11:05:04 INFO  app1:60 - transfer table insert success
+2021-07-12 11:06:12 INFO  app1:40 - Load acc success
+2021-07-12 11:44:08 INFO  app1:54 - reached switch case 4
+2021-07-12 11:44:31 INFO  app1:54 - reached switch case 4
+2021-07-12 11:44:44 INFO  app1:54 - reached switch case 4
+2021-07-12 11:45:15 INFO  app1:33 - reached switch case 1
+2021-07-12 11:45:18 INFO  app1:40 - Load acc success
+2021-07-12 11:46:30 INFO  app1:39 - reached switch case 2
+2021-07-12 11:46:39 ERROR app1:30 - Not enogh balance
+2021-07-12 12:07:24 INFO  app1:35 - reached switch case 1
+2021-07-12 12:07:26 INFO  app1:40 - Load acc success
+2021-07-12 12:07:36 INFO  app1:35 - reached switch case 1
+2021-07-12 12:07:38 INFO  app1:40 - Load acc success
+2021-07-12 12:09:04 INFO  app1:55 - reached switch case 4
+2021-07-15 10:48:37 INFO  app1:35 - reached switch case 1
+2021-07-15 10:48:39 INFO  app1:40 - Load acc success
+2021-07-15 10:48:49 INFO  app1:35 - reached switch case 1
+2021-07-15 10:48:50 INFO  app1:40 - Load acc success
+2021-07-15 10:49:04 INFO  app1:41 - reached switch case 2
+2021-07-15 10:49:13 INFO  app1:51 - reached switch case 3
+2021-08-01 14:40:18 INFO  app1:55 - reached switch case 4
+2021-08-01 14:40:32 INFO  app1:35 - reached switch case 1
+2021-08-01 14:40:36 ERROR app1:43 - SQL excep in Finally of Load acc
+2021-08-01 14:54:31 INFO  app1:35 - reached switch case 1
+2021-08-01 14:54:34 INFO  app1:40 - Load acc success
